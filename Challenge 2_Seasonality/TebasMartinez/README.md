@@ -57,4 +57,4 @@ Deepseek was used to generate the dictionary with question types (categories) in
 [![Question types over time in Uganda](images/types_over_time_uganda.jpg)]()
 
 ## Running this directory
-To run the data cleaning code in the `Data Cleaning.ipynb` notebook, the Producers Direct dataset file originally provided in the [DataKit](https://docs.google.com/document/d/1jKTmb8R5GlM9uqQkB5fXd37o2bdX17JKB36mK-NqWFE/edit?usp=sharing) must be added under `data/raw/pd_dataset.csv`. All remaining data files needed for the next steps are generated through that notebook.
+To run the code in the `Data Cleaning.ipynb` notebook, the Producers Direct dataset file originally provided in the [DataKit](https://docs.google.com/document/d/1jKTmb8R5GlM9uqQkB5fXd37o2bdX17JKB36mK-NqWFE/edit?usp=sharing) must be added under `data/raw/pd_dataset.csv`. All remaining data files needed for the next steps are generated through that notebook.
